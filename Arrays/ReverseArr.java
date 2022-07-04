@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Q1 {
+public class ReverseArr {
     //Given an array (or string), the task is to reverse the array/string.
     public static void main (String[] args) {
         

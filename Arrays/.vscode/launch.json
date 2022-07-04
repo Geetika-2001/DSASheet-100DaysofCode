@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch Count012",
+            "request": "launch",
+            "mainClass": "Count012",
+            "projectName": "Arrays_75c877fc"
+        },
+        {
             "name": "Java",
             "type": "java",
             "request": "launch",

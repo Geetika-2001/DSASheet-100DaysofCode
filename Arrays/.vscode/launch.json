@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Negatives",
+            "request": "launch",
+            "mainClass": "Negatives",
+            "projectName": "Arrays_75c877fc"
+        },
+        {
+            "type": "java",
             "name": "Launch Count012",
             "request": "launch",
             "mainClass": "Count012",

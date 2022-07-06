@@ -1,4 +1,4 @@
-
+//O(N) time and costant Space complexity
 public class getDuplicates {
     public static void main(String args[]) {
         int numRay[] = { 0, 4, 3, 2, 7, 8, 2, 3, 1 };

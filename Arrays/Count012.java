@@ -19,7 +19,6 @@ public class Count012 {
                     break;        
             }
         }
-        
         i =0; 
         while(c0>0){
             arr[i++]= 0;
